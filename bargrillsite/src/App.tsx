@@ -214,7 +214,7 @@ export default function App() {
           </div>
           <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-2 uppercase italic">grill bar kolodvor</h1>
           <div className="h-1 w-48 bg-[#c4a484] mx-auto mb-4" />
-          <p className="text-xl md:text-2xl text-[#c4a484] italic tracking-widest">grill bar kolodvor Strizvojna</p>
+          <p className="text-xl md:text-2xl text-[#c4a484] italic tracking-widest">grill bar kolodvor Strizivojna</p>
         </motion.div>
 
         {!isAdmin ? (
