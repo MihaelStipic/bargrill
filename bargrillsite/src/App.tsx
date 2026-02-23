@@ -212,9 +212,9 @@ export default function App() {
               }}
             />
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-2 uppercase italic">Bar & Grill Strizivojna</h1>
+          <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-2 uppercase italic">grill bar kolodvor</h1>
           <div className="h-1 w-48 bg-[#c4a484] mx-auto mb-4" />
-          <p className="text-xl md:text-2xl text-[#c4a484] italic tracking-widest">Bar & Grill Strizivojna</p>
+          <p className="text-xl md:text-2xl text-[#c4a484] italic tracking-widest">grill bar kolodvor Strizvojna</p>
         </motion.div>
 
         {!isAdmin ? (
@@ -345,9 +345,9 @@ export default function App() {
               (e.target as HTMLImageElement).style.display = 'none';
             }}
           />
-          <p className="text-[#c4a484] italic mb-2 tracking-widest">BAR & GRILL STRIZIVOJNA</p>
+          <p className="text-[#c4a484] italic mb-2 tracking-widest">GRILL BAR KOLODVOR STRIZIVOJNA</p>
           <p className="text-[#a89c84] text-sm">Kolodvorska 17, Strizivojna• Kontakt: 097 727 8605</p>
-          <div className="mt-8 text-[10px] opacity-30 uppercase tracking-[0.5em]">Bar & Grill Strizivojna</div>
+          <div className="mt-8 text-[10px] opacity-30 uppercase tracking-[0.5em]">grill bar kolodvor Strizivojna</div>
         </div>
       </footer>
 
