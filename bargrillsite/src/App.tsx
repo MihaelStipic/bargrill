@@ -178,7 +178,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-[#1a1a1a] text-[#e5d3b3] font-serif selection:bg-[#c4a484] selection:text-[#1a1a1a]">
+    <div className="min-h-screen bg-[#1a1a1a] text-[#e5d3b3] font-serif selection:bg-[#c4a484] selection:text-[#1a1a1a]" style={{ zoom: '0.85' }}>
       {error && (
         <div className="bg-red-900 text-white p-4 text-center">
           {error}
